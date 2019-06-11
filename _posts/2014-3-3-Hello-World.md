@@ -36,8 +36,15 @@ Now it's easy to see that your X ain't no slut, despite appearances.
 
 
 
-Notice that the Homset isomoprhism is a useful definition. 
+Notice that the Homset isomoprhism is a useful definition. {not obvious}
 
 
 Here's a fuck-color-consistency version in the style of Kalid, to help unpack the logical defintion:
 $$\forall X \exists Y$$
+
+
+
+
+{notes, remove}:
+- {obvious} tags to be replaced with structure and images, so it composes almost formally and with completeness, not sprinkled on
+- don't let this be The voice, only a voice
