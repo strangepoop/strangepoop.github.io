@@ -14,4 +14,4 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 
 John Baez has done the marketing. 
 
-I'm a late entrant, which means all I can hope to do is undercut prices ie cognitive load. I'll do this with pretty pictures and pointing out explictly what's sorta-derivable and what's magical.
+I'm a late entrant, which means all I can hope to do is undercut prices, i.e. cognitive load. I'll do this with pretty pictures and pointing out explictly what's sorta-derivable and what's magical.
