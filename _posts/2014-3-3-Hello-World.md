@@ -39,10 +39,15 @@ Now it's easy to see that your X ain't no slut, despite appearances.
 Notice that the Homset isomoprhism is a useful definition. {not obvious}
 
 
-Here's a fuck-color-consistency version in the style of Kalid, to help unpack the logical defintion:
+Here's a fuck-color-consistency version in the style of Kalid, to help unpack the quantifiers in the defintion:
 $$\forall X \exists Y$$
 
 
+{fix, not clear at all, talking to myself}:
+Later on: if you want more of the defintition, we'll introduce the fact that every "close" map factors through the counit. That is, what good is the object? Only to talk about arrows to and from, right? If we restric to arrows to X, guess what - you only need remember the counit arrow forever, and then to get arrows to X, you just compose with the counit.
+The subtle thing (so subtle, I didn't even write it there) is that I can talk about arrows from FA \to X (and now, FA \to FGX) only through arrows A \to GX. That is, the structure of it really comes from the first category. That's the homset correspondence as well. This is sort of the morphism inverse part of it: if I want to "invert" morphisms from F \to X, I go GX, check for preimage, then go F on that morphism, and counit compose it. That's the corresponding "inverse".
+
+Why would we want to look at such weird one-sided inverses? Sure I could make you go induct on it ("adjoints arise everywhere", but can I make you want it, kinda-sorta? 
 
 
 {notes, remove}:
