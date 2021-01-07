@@ -11,7 +11,7 @@ Next you can update your site name, avatar and other options using the _config.y
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
 
-
+[//]: # (
 John Baez has done the marketing. 
 
 I'm a late entrant and a shit mathematician so far, which means all I can hope to do is undercut prices, i.e. reduce cognitive load.
@@ -52,4 +52,4 @@ Why would we want to look at such weird one-sided inverses? Sure I could make yo
 
 {notes, remove}:
 - {obvious} tags to be replaced with structure and images, so it composes almost formally and with completeness, not sprinkled on
-- don't let this be The voice, only a voice
+- don't let this be The voice, only a voice)
